@@ -152,5 +152,15 @@
   },
   "enriched-markdown": {
     "enableMath": false
+  },
+  "allowScripts": {
+    "file:../../../node_modules/react-i18next": true,
+    "file:../../../node_modules/react-native-purchases": true,
+    "workerd@1.20260926.1": true,
+    "file:../../../../node_modules/@mattermost/react-native-paste-input": true,
+    "@parcel/watcher@2.6.0": true,
+    "file:../../../../node_modules/@react-native-menu/menu": true,
+    "react-native-enriched-markdown@1.0.2": true,
+    "esbuild@0.28.1": true
   }
 }
